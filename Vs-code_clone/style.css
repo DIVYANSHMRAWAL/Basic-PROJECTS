@@ -1,0 +1,107 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+.text{
+    border-radius: 50px;
+    padding-left: 15px;
+    padding-top:10px;
+    width: 300px;
+    height: 25px;
+    background-color: rgb(39, 39, 39);
+    color: rgb(211, 233, 255);  
+
+}
+
+.button{
+height: 55px;
+border-radius: 5px;
+width: 220px;
+background-color: rgb(57, 120, 255); 
+}
+
+.mainContent{
+    display: flex;
+    margin-top: 82px;
+    margin-left: 150px;
+    background-color: rgb(15, 15, 15);
+}
+
+.mainImage{
+    margin-left: 90px;
+    
+}
+
+.leftpart{
+    margin-top: 78px;
+}
+
+body{
+    background-color: rgb(15, 15, 15);
+}
+.mainboxtwo{
+    background-color: rgb(15, 15, 15);
+}
+
+.left2box{
+    color: white;
+    margin-left: 145px;
+    margin-top: 90px;
+}
+
+.right2box{
+margin-left: 100px;
+margin-top: 80px;
+}
+
+.r1c2{
+    margin-left: 130px;
+}
+
+.r1c3{
+    margin-left: 130px;
+}
+
+.rightpart3{
+    margin-left: 110px;
+    margin-top: 90px;
+}
+
+.main3box{
+    margin-top: 50px;
+}
+
+.left4side{
+    margin-left: 145px;
+    margin-top: 90px;
+}
+
+.right4side{
+    margin-top: 88px;
+    margin-left: 70px;
+}
+
+.notation{
+    margin-top: 100px;
+}
+
+.extensions{
+    margin-left: 250px; 
+    margin-top: 50px;
+}
+
+.last2row{
+    margin-top: 15px;
+}
+
+.downfooter{
+    display: flex;
+}
+
+.footer{
+    margin-left: 234px;
+    margin-top: 105px;
+    margin-bottom: 100px;
+}
