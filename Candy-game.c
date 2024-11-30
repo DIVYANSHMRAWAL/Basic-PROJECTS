@@ -1,3 +1,6 @@
+
+//-------------------------------------------------------works only in turboC++------------------------------------------------------------------------------------
+
 #include <stdio.h>
 #include <conio.h> // For functions like clrscr(), gotoxy(), and kbhit()
 
